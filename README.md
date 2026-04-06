@@ -1,4 +1,4 @@
----
+
 
 #### 🙌 Agradecimientos
 
@@ -8,7 +8,7 @@ Gracias a **Norrisplay** por descubrirme el juego, por hacer cada día más entr
 
 👉 https://www.twitch.tv/norrisplay
 
----
+
 
 #### ☕ Apoya el proyecto
 
@@ -19,7 +19,7 @@ Si te gusta este proyecto y quieres apoyarlo, puedes hacerlo aquí:
 # Pitipen Mining System — Release Notes
 
 
----
+
 
 #### 🙌 Acknowledgements
 
