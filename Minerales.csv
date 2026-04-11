@@ -1,0 +1,36 @@
+signature_radar,rarete,nom,contenu,rol,subrol
+1700,,Asteroide Tipo C,Deposito,ship,asteroid
+1900,,Asteroide Tipo E,Deposito,ship,asteroid
+1850,,Asteroide Tipo M,Deposito,ship,asteroid
+1750,,Asteroide Tipo P,Deposito,ship,asteroid
+1870,,Asteroide Tipo Q,Deposito,ship,asteroid
+1720,,Asteroide Tipo S,Deposito,ship,asteroid
+3170,,Quantainium,Deposito,ship,material
+3185,,Stileron,Deposito,ship,material
+3200,,Savrilium,Deposito,ship,material
+3370,,Ouratite,Deposito,ship,material
+3385,,Riccite,Deposito,ship,material
+3400,,Lindinium,Deposito,ship,material
+3540,,Beryl,Deposito,ship,material
+3555,,Taranite,Deposito,ship,material
+3570,,Borase,Deposito,ship,material
+3585,,Gold,Deposito,ship,material
+3600,,Bexalite,Deposito,ship,material
+3825,,Laranite,Deposito,ship,material
+3840,,Aslarite,Deposito,ship,material
+3855,,Titanium,Deposito,ship,material
+3870,,Tungsten,Deposito,ship,material
+3885,,Agricium,Deposito,ship,material
+3900,,Torite,Deposito,ship,material
+4180,,Hephaestanite,Deposito,ship,material
+4195,,Tin,Deposito,ship,material
+4210,,Quartz,Deposito,ship,material
+4225,,Corundum,Deposito,ship,material
+4240,,Copper,Deposito,ship,material
+4255,,Silicon,Deposito,ship,material
+4270,,Iron,Deposito,ship,material
+4285,,Aluminium,Deposito,ship,material
+4300,,Ice,Deposito,ship,material
+3000,,FPS Mineables,Gemas,hand,hand
+2000,,Salvage Debris,Panels/Wreckage,salvage,salvage
+4000,,ROC Mineables,ROC,vehicle,vehicle
